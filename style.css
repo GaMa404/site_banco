@@ -1,0 +1,86 @@
+body {
+    margin: 0;
+    padding: 0;
+    height: 97vh;
+    background: linear-gradient(to bottom right, #4a90e2,#66CDAA);
+}
+
+.titulo
+{
+    font-size: 100px;
+    color: white;
+    margin: 0;
+    margin-left: 40px;
+    margin-top: 20px;
+}
+
+.slogan
+{
+    font-size: 40px;
+    color: white;
+    margin: 0;
+    margin-left: 50px;
+}
+
+video
+{
+    margin: 0;
+    margin-top: 0px;
+    margin-left: 190px;
+    border-width: 100px;
+    border-color: white;
+    width: 150px;
+    scale: 1;
+}
+
+.info
+{
+    color: white;
+    position: relative;
+    font-size: 20px;
+    text-align: justify;
+    margin: 0;
+    margin-right: 20px;
+    margin-left: 20px;
+    margin-top: -10px;
+}
+
+img
+{
+    height: 100px;
+    position: relative;
+    scale: 3;
+    float: right;
+    margin: 0;
+    margin-top: -400px;
+    margin-right: 300px;
+    border-color: red;
+}
+
+.botao 
+{
+    position: relative;
+    float: right;
+    margin: 0;
+    margin-right: 100px;
+    margin-top: -100px;
+}
+
+a
+{
+    text-decoration: none;
+}
+
+button
+{
+    background-color: transparent;
+    color: white;
+    font-size: 30px;
+    border-color: white;
+    border-width: 2px;
+    padding: 10px;
+    margin-right: 50px;
+    border-radius: 10px;
+}
+
+
